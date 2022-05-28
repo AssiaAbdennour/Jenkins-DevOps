@@ -14,7 +14,7 @@ public class CourCircuit
             System.out.println	("i	=	"	+	i	+	"	j	=	"	+	j)	;
             if	(i<15	||	j++<10)	System.out.println	("||	vrai")	;
             else	System.out.println	("||	faux")	;
-            System.out.println	("i	=	"	+	i	+	"	j	=	"	+	j)	;
+            System.out.println	("i	=	"	+	i	+	"	j	=	"	+	j)	
         }
 }
 
